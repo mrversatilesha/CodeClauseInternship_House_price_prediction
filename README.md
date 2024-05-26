@@ -11,4 +11,4 @@ The code also includes a database generator for generating random prices to trai
 
 Lastly, the predictor is enabled and based upon the values , the price is returned by the program.
 
-https://colab.research.google.com/drive/12d_aJyCdoBNnFUd6ddH9NfAyRBb3aUsv?usp=sharing
+https://colab.research.google.com/drive/1uVqGM6HbsYBvS3h44pwSORFoQK5aOKLx?usp=sharing
